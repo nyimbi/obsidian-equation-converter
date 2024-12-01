@@ -1,0 +1,9 @@
+{
+  "id": "equation-converter",
+  "name": "Equation Converter",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Converts OpenAI-style equation markup to standard markdown equation syntax",
+  "author": "Nyimbi Odero",
+  "isDesktopOnly": false
+}
