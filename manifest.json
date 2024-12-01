@@ -1,9 +1,14 @@
 {
-  "id": "equation-converter",
-  "name": "Equation Converter",
-  "version": "1.0.0",
-  "minAppVersion": "0.15.0",
-  "description": "Converts OpenAI-style equation markup to standard markdown equation syntax",
-  "author": "Nyimbi Odero",
-  "isDesktopOnly": false
+    "id": "equation-converter",
+    "name": "Equation Converter",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Converts OpenAI-style equation markup to standard markdown equation syntax",
+    "author": "Nyimbi Odero",
+    "authorUrl": "https://github.com/nyimbi",
+    "isDesktopOnly": false,
+    "repository": "https://github.com/nyimbi/obsidian-equation-converter",
+    "fundingUrl": {
+        "GitHub": "https://github.com/sponsors/nyimbi"
+    }
 }
